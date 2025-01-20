@@ -1,0 +1,23 @@
+{
+  "name": "cache_app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/y0ngdev/cache_app#readme",
+  "bugs": {
+    "url": "https://github.com/y0ngdev/cache_app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y0ngdev/cache_app.git"
+  },
+  "license": "ISC",
+  "author": "Prosper Ugbovo (Yongdev)",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
